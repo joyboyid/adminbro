@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "joyboy",
+    "password": "imroot",
+    "database": "db_admin",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "joyboy",
+    "password": "imroot",
+    "database": "db_admin",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "joyboy",
+    "password": "imroot",
+    "database": "db_admin",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
